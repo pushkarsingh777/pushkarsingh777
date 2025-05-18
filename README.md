@@ -16,20 +16,18 @@
 
 
 <picture>
- ## 🐍 GitHub Contribution Snake  
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aniketsingh1023/aniketsingh1023/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aniketsingh1023/aniketsingh1023/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/aniketsingh1023/aniketsingh1023/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pushkarsingh777/pushkarsingh777/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pushkarsingh777/pushkarsingh777/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/pushkarsingh777/pushkarsingh777/output/github-snake.svg" />
 </picture>
 
-</picture>
+
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=merko)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=aniketsingh1023&icon=1&color=3)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=pushkarsingh777&icon=1&color=3)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
