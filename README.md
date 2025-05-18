@@ -23,9 +23,6 @@
 
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=merko)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=pushkarsingh777&icon=1&color=3)](https://visitcount.itsvg.in)
 
